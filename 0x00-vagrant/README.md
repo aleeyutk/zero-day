@@ -1,0 +1,1 @@
+- running "uname" without any option prints the core OS name.
